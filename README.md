@@ -6,8 +6,8 @@ Nomes: Juliana Rodrigues Gonçalves e Luís Henrique Gonçalves de Oliveira
 
 O projeto consiste no desenvolvimento de um framework para aplicações de quiz. A arquitetura do projeto foi dividida de uma forma que garante que o framework seja Open-closed:
 
-- quiz.framework
-- quiz.aplicacao
+- ```quiz.framework```
+- ```quiz.aplicacao```
 
 O framework permite que os desenvolvedores criem facilmente diferentes tipos de quiz sem mexer em nada do que está dentro de quiz.framework.
 
